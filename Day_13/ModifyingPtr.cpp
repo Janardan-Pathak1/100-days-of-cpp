@@ -12,5 +12,7 @@ int main(int argc, char *argv[]) {
 
   cout << *ptr << endl;
 
+  // Modying the pointer
+
   return 0;
 }
