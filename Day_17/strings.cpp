@@ -13,6 +13,6 @@ int main() {
   cout << str << endl;
 
   string myStr = "This is another string";
-  cout << myStr << endl;
+
   return 0;
 }
